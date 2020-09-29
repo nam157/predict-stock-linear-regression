@@ -1,1 +1,1 @@
-# nam
+# stock predict with linear regression
